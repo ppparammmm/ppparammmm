@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/barneywestsidee" target="blank"><img src="https://img.shields.io/twitter/follow/barneywestsidee?logo=twitter&style=for-the-badge" alt="barneywestsidee" /></a> </p>
 
-- 🔭 I’m currently working on [HandGesturesControl](DartGame)
+- 🔭 I’m currently working on [HandGesturesControl](HandGesturesControl)
 
 - 🌱 I’m currently learning **React.js, Flutter**
 
