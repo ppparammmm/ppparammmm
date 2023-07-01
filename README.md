@@ -1,3 +1,5 @@
+<img src=https://raw.githubusercontent.com/An-prog-hub/An-prog-hub/master/gif.gif>
+
 <h1 align="center">Hi 👋, I'm Param</h1>
 <h3 align="center">A passionate frontend developer from Australia</h3>
 
@@ -43,4 +45,4 @@
 
 
 
-<img src=https://raw.githubusercontent.com/An-prog-hub/An-prog-hub/master/gif.gif>
+
