@@ -1,7 +1,7 @@
 
 
 <h1 align="center"><img src="your_cool_intro.gif"/></h1>
-<h3 align="center">A passionate frontend developer from Australia</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sweatkid6&label=Profile%20views&color=0e75b6&style=flat" alt="sweatkid6" /> </p>
 
