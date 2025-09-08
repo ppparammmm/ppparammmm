@@ -2,7 +2,7 @@
   
 ## Param
 
-<sub>AI & MACHINE LEARNING DEVELOPER</sub>
+<sub>AI & MACHINE LEARNING ENTHUSIAST</sub>
 
 </div>
 
