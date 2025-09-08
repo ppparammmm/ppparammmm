@@ -1,6 +1,6 @@
 <div align="center">
 
-# Param
+## Param
 
 *AI & Machine Learning Enthusiast*
 
@@ -9,7 +9,6 @@
 ---
 
 - 🌱 I’m currently diving deep into **Machine Learning** with Scikit-Learn, Keras, and TensorFlow.
-- 🚀 My projects are available at **[paramm.click](http://paramm.click)**.
 - 📫 How to reach me: **[LinkedIn](YOUR_LINKEDIN_URL_HERE)** | **[Twitter](YOUR_TWITTER_URL_HERE)**
 
 <br/>
