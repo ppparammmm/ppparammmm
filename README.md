@@ -1,6 +1,6 @@
 <div align="center">
 
-## Param
+# Param
 
 *AI & Machine Learning Enthusiast*
 
