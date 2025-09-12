@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Ko-fi Widget -->
-  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-  <script type='text/javascript'>
-    kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'O4O3N7E3F');
-    kofiwidget2.draw();
-  </script>
+  <!-- Ko-fi Button -->
+  <a href='https://ko-fi.com/O4O3N7E3F' target='_blank'>
+    <img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
 
 </div>  
 
