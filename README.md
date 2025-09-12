@@ -7,8 +7,6 @@
 
 </div>  
 
----
-
 <h3 align="center">🛠️ Core Technologies</h3>
 
 <p align="center">
@@ -21,5 +19,3 @@
   <!-- Extras -->
   <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
 </p>
-
----
