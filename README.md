@@ -19,7 +19,7 @@
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:YOUR_EMAIL_HERE">Contact</a>
+  <a href="mailto:parammehta06@gmail.com">Contact</a>
 </p>
 
 ---
