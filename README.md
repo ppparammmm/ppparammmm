@@ -1,12 +1,12 @@
 <div align="center">
 
-  <!-- Twitter | Mastodon | Email -->
-  <a href="https://twitter.com/YOUR_HANDLE">
-    <img src="https://skillicons.dev/icons?i=twitter" height="48" alt="Twitter"/>
+  <!-- X | Matrix | Email -->
+  <a href="https://x.com/YOUR_HANDLE">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="48" alt="X"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://mastodon.social/@YOUR_HANDLE">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" height="48" alt="Mastodon"/>
+  <a href="https://matrix.to/#/@YOUR_HANDLE:matrix.org">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Matrix_icon.svg" height="48" alt="Matrix"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:parammehta06@gmail.com">
