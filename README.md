@@ -1,40 +1,50 @@
 <div align="center">
-  
-## Param
 
-<sub>AI & MACHINE LEARNING ENTHUSIAST</sub>
+# ⚡ Param  
+
+<sub>AI & MACHINE LEARNING ENTHUSIAST</sub>  
+
+---
+
+✨ Building intelligent systems with a focus on **machine learning** and **data science**  
+🧠 Exploring deep learning with **TensorFlow** & **PyTorch**  
+
+</div>  
+
+---
+
+<div align="center">
+
+🌐 [Website](http://paramm.click)  
+💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)  
+📩 [Contact](mailto:parammehta06@gmail.com)  
 
 </div>
 
 ---
 
-<p align="center">
-  Building intelligent systems with a focus on machine learning and data science. 
-  <br/>
-  Currently leveraging frameworks like TensorFlow and PyTorch to explore deep learning applications.
-</p>
+<h3 align="center">🛠️ Core Technologies</h3>
 
 <p align="center">
-  <a href="http://paramm.click">Website</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:parammehta06@gmail.com">Contact</a>
+  <!-- ML / AI -->
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+  <br/>
+  <!-- Web / Dev -->
+  <img src="https://skillicons.dev/icons?i=react,js,ts,java,postgres" />
+  <br/>
+  <!-- Extras -->
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
 </p>
 
 ---
 
-<h3 align="center">Core Technologies</h3>
+<h3 align="center">⚡ Stats & Activity</h3>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-    <br>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://github-readme-stats.vercel.app/api?username=httpparam&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=httpparam&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=param-mehta&theme=tokyo-night" />
 </p>
