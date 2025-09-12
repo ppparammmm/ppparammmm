@@ -1,17 +1,11 @@
 <div align="center">
 
-  <!-- X | Matrix | Email -->
-  <a href="https://x.com/YOUR_HANDLE">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" height="48" alt="X"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://matrix.to/#/@YOUR_HANDLE:matrix.org">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Matrix_icon.svg" height="48" alt="Matrix"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:parammehta06@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email"/>
-  </a>
+  <!-- Ko-fi Widget -->
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+  <script type='text/javascript'>
+    kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'O4O3N7E3F');
+    kofiwidget2.draw();
+  </script>
 
 </div>  
 
