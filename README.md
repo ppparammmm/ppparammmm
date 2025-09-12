@@ -1,27 +1,7 @@
 <div align="center">
 
-# ⚡ Param  
-
-<sub>AI & MACHINE LEARNING ENTHUSIAST</sub>  
-
----
-
-✨ Building intelligent systems with a focus on **machine learning** and **data science**  
-🧠 Exploring deep learning with **TensorFlow** & **PyTorch**  
-
+#  Param  
 </div>  
-
----
-
-<div align="center">
-
-🌐 [Website](http://paramm.click)  
-💼 [LinkedIn](YOUR_LINKEDIN_URL_HERE)  
-📩 [Contact](mailto:parammehta06@gmail.com)  
-
-</div>
-
----
 
 <h3 align="center">🛠️ Core Technologies</h3>
 
