@@ -17,14 +17,3 @@
 </p>
 
 ---
-
-<h3 align="center">⚡ Stats & Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=httpparam&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=httpparam&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=param-mehta&theme=tokyo-night" />
-</p>
