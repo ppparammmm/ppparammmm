@@ -20,17 +20,10 @@
   <img src="https://skillicons.dev/icons?i=git,linux,docker,vscode" />
 </p>
 
----
-
 <h3 align="center">🚧 Current Projects</h3>
 
 <p align="center">
   <a href="https://github.com/httpparam/kopy">
     <img src="https://img.shields.io/badge/GitHub-kopy-blue?style=for-the-badge&logo=github" alt="kopy repo"/>
   </a>
-</p>
-
-<p align="center">
-  ✨ <b>kopy</b> — a lightweight, minimal clipboard manager built for speed and simplicity.<br/>
-  🚀 Designed to make copy-paste workflows smoother for developers & power users.
 </p>
